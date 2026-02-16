@@ -9,7 +9,7 @@ Blinks an Led at a given location.
 
 '''blocks
 animations.blink(0, 0, 100)
-'''
+
 
 This repository can be added as an **extension** in MakeCode.
 
