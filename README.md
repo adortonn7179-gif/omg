@@ -1,7 +1,15 @@
 
 > Open this page at [https://adortonn7179-gif.github.io/omg/](https://adortonn7179-gif.github.io/omg/)
 
-## Use as Extension
+## Usage
+
+### Blink #animationsblink
+
+Blinks an Led at a given location.
+
+'''blocks
+animations.blink(0, 0, 100)
+'''
 
 This repository can be added as an **extension** in MakeCode.
 
